@@ -1,2 +1,2 @@
-# algorithms_and_complexity
+# Algorithms and complexity
 Αλγόριθμοι και Πολυπλοκότητα 
