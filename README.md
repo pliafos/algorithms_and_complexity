@@ -10,4 +10,10 @@
 Η εφαρμογή διαβάζει τα δεδομένα και υπολογίζει τα στατιστικά στοιχεία και επιλύει το πρόβλημα χρωματισμού γράφου. 
 
 # Κώδικας 
-* Ο σχετικός κώδικας (./Program.cs) 
+* [Ο σχετικός κώδικας](./Program.cs)
+
+# Εγκατάσταση και εκτέλεση 
+1. Λήψη και εγκατάσταση του [Visual Studio Code](https://code.visualstudio.com/download)
+2. Λήψη και εγκατάσταση του [.Net](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.405-windows-x64-installer)
+3. Λήψη των [δεδομένων](./datasets)
+4. Εκτέλεση του κώδικα 
